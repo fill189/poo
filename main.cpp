@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
 int main(){
-    cout << "Hello, World!" << endl;
+    int modificacao = 30;
+    cout << "Hello, World! " << modificacao << endl;
     return 0;
 
 }
